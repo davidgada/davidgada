@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a final year Computer Science student at the University of Lethbridge. <br>🌱 I’m currently learning more about AI, DBMS and Software Engineering.<br>💬 Knowledgeable in C++, Javascript, SQL, and Python.<br>📫 How to reach me: https://ca.linkedin.com/in/david-agada
+🔭 I’m currently a final year Computer Science student at the University of Lethbridge. <br>🌱 I’m currently learning more about AI, DBMS and Software Engineering.<br>💬 Knowledgeable in C++, Javascript, SQL, and Python.<br>📫 How to reach me: https://ca.linkedin.com/in/david-agada, e.agada@uleth.ca
 
 
 
